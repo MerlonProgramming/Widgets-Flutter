@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alert 🙋‍♂️"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars 🧑‍💻"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards 🗂"
+        }
+    ]
+}
